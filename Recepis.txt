@@ -5,5 +5,7 @@ Pasta
 
 Chiken
 
+Beans
+Pizza
 
 Thank you
